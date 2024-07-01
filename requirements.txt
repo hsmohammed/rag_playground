@@ -1,0 +1,9 @@
+chromadb
+transformers
+torch
+langchain
+langchain-chroma
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-huggingface
